@@ -1,0 +1,14 @@
+body {
+    background-color: wheat;
+}
+h1 {
+    color: rgb(204, 34, 34);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    text-decoration: double;
+    font-weight: 450;
+}
+
+p {
+    text-align: center;
+}
